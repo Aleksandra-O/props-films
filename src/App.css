@@ -1,0 +1,13 @@
+.container {
+  width: 1000px;
+  margin: 20px auto;
+}
+.card-body-stars {
+  list-style: none;
+}
+.card-body-stars li {
+  display: inline-block;
+}
+.movies_list {
+  list-style: none;
+}
